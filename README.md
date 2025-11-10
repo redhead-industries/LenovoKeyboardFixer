@@ -1,3 +1,7 @@
+### RedHead operates independently and relies entirely on community donations to stay online and continue developing free and open-source projects. We support Bitcoin, Monero, and Stripe -- but we prefer bitcoin/monero donations, as Stripe is unreliable as of the current moment.
+### You can find all of our donation methods on our website:
+[redheadindustries.xyz](https://redheadindustries.xyz)
+
 # LenovoKeyboardFixer
 
 **Author:** RedHead Industries (Technologies Branch)  
